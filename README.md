@@ -1,7 +1,7 @@
 AlchemyStuff
 ================
 
-Precompiled SWC library and sources for old prjects that use Alchemy Op-codes
+Precompiled SWC library and sources for old projects that use Alchemy Op-codes
 
 requires [Apparat Tool](https://github.com/joa/apparat)
 or just use precompiled *.swc library
